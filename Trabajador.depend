@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1520389405 source:d:\trabajador\main.cpp
+	<iostream>
+	"Trabajador.h"
+	<stdlib.h>
+
+1520385422 source:d:\trabajador\trabajador.cpp
+	"Trabajador.h"
+
+1520385122 d:\trabajador\trabajador.h
+	<string.h>
+	<iostream>
+
